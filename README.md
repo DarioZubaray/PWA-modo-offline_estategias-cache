@@ -1,0 +1,7 @@
+# Estrategias de cache
+
+- CACHE ONLY
+- CACHE WITH NETWORK FALLBACK /THEN CACHE
+- NETWORK WITH CACHE FALLBACK
+- CACHE WITH NETWORK UPDATE (Rendimiento critico - version desfazada, 1 atras)
+- CACHE AND NETWORK RACE
